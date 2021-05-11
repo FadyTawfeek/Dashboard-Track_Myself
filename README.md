@@ -24,7 +24,7 @@ the trendline will have a positive slope. X-axis represents date, and its format
 For extended view of the data, 3 side tabs are used so that data is shown for every day even if the user chooses a long date range (and the date orientation is tilted when date range is too long).
 
 
-![alt text](https://github.com/FadyTawfeek/Dashboard-Track_Myself/blob/main/med%20side.png)
+![alt text](https://github.com/FadyTawfeek/Dashboard-Track_Myself/blob/main/med%20side.PNG)
 
 
-![alt text](https://github.com/FadyTawfeek/Dashboard-Track_Myself/blob/main/sym%20side.png)
+![alt text](https://github.com/FadyTawfeek/Dashboard-Track_Myself/blob/main/sym%20side.PNG)
